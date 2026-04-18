@@ -1,0 +1,6 @@
+项目名称：随身网控 Pro
+软件版本：V1.0.0
+开发作者：Ylbot
+适配硬件：高通410 随身WiFi
+开源地址：https://github.com/Ylbot0
+版权所有：© 2026 Ylbot
